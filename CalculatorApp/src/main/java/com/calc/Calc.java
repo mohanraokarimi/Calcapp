@@ -15,5 +15,9 @@ public class Calc {
 		double result = a/b;
 		return result;
 	}
+	public double div1(double a,double b) {
+		double result = a/b;
+		return result;
+	}
 
 }
